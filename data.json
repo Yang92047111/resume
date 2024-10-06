@@ -1,0 +1,160 @@
+{
+  "id": {"S": "1"},
+  "name": {"S": "ZI-YANG, LIN"},
+  "label": {"S": "DevOps/SRE"},
+  "image": {"S": ""},
+  "email": {"S": "okm92047111@gmail.com"},
+  "phone": {"S": "(+886) 917086901"},
+  "location": {
+    "M": {
+      "city": {"S": "Taipei"},
+      "countryCode": {"S": "Taiwan"},
+      "region": {"S": "Asia"}
+    }
+  },
+  "profiles": {"L": [
+    {"M": {
+      "network": {"S": "X"},
+      "username": {"S": "Alan Lin"},
+      "url": {"S": "https://twitter.com/okm92047111"}
+    }},
+    {"M": {
+      "network": {"S": "Linkedin"},
+      "username": {"S": "Zi Yang Lin"},
+      "url": {"S": "https://www.linkedin.com/in/zi-yang-lin/"}
+    }},
+    {"M": {
+      "network": {"S": "GitHub"},
+      "username": {"S": "okm92047111"},
+      "url": {"S": "https://github.com/Yang92047111"}
+    }}
+  ]},
+  "keywords": {"L": [
+    {"S": "Design and Development"},
+    {"S": "System Architect"},
+    {"S": "System Analyst"},
+    {"S": "Data Analyst"}
+  ]},
+  "summary": {"S": "As a Software Engineer with 3 years of experience, I have a proven track record of delivering innovative solutions and leading development teams to success. I take pride in spearheading a critical project where I managed system architecture design and ensured the delivery of high- quality software within time and budget constraints. My dedication to continuous improvement drives me to explore new technologies and tools, enhancing team efficiency and product quality. I am eager to bring my skills to a challenging environment, collaborating with a dynamic team to create exceptional software products."},
+  "work": {"L": [
+    {"M": {
+      "name": {"S": "INTERNATIONAL MOBILE IOT CORP."},
+      "position": {"S": "Senior Software Engineer"},
+      "startDate": {"S": "2022-07"},
+      "endDate": {"S": "Present"},
+      "summary": {"L": [{"S": "Collect and analyze user and business feedback and suggestions to ensure smooth communication."}, 
+                        {"S": "Collaborate with the team to translate user and business requirements into scalable and efficient technical solutions."},  
+                        {"S": "Designed and implemented backend systems, ensuring the scalability, security, and efficiency of the overall architecture."}, 
+                        {"S": "Engineered and implemented scalable backend systems, incorporating containerization to enhance resource efficiency and facilitate rapid scaling."}]}
+    }},
+    {"M": {
+      "name": {"S": "Taipei Tech."},
+      "position": {"S": "Researcher"},
+      "startDate": {"S": "2021-07"},
+      "endDate": {"S": "2023-03"},
+      "summary": {"L": [{"S": "Scheduled and coordinated research activities."}, 
+                        {"S": "Worked to ensure that results are compiled, analyzed and presented properly."}, 
+                        {"S": "Coordinated a range of academic programs and projects."}]}
+    }},
+    {"M": {
+      "name": {"S": "TAIWAN KURO TIMES CO., LTD."},
+      "position": {"S": "QA Tester"},
+      "startDate": {"S": "2016-06"},
+      "endDate": {"S": "2018-03"},
+      "summary": {"L": [{"S": "Located, analyzed, and documented defects in various mobile applications."}, 
+                        {"S": "Pro-actively participated in weekly team meetings with software developers to maximize productivity and efficiency."}, 
+                        {"S": "Conducted daily reports and reported findings to managers."}]}
+    }}
+  ]},
+  "education": {"L": [
+    {"M": {
+      "institution": {"S": "Taipei Tech."},
+      "area": {"S": "Engineering in Electronics Engineering"},
+      "studyType": {"S": "Master"},
+      "startDate": {"S": "2019"},
+      "endDate": {"S": "2021"},
+      "score": {"S": "8.65"}
+    }},
+    {"M": {
+      "institution": {"S": "Taipei Tech."},
+      "area": {"S": "Engineering in Electronics Engineering"},
+      "studyType": {"S": "Bachelor"},
+      "startDate": {"S": "2015"},
+      "endDate": {"S": "2019"},
+      "score": {"S": "8.85"}
+    }}
+  ]},
+  "certificates": {"L": [ 
+    {"M": {
+      "title": {"S": "AWS Certified Solutions Architect - Associate "},
+      "date": {"S": "2024"}
+    }},
+    {"M": {
+      "title": {"S": "TOEIC 650 "},
+      "date": {"S": "2019"}
+    }}
+  ]},
+  "skills": {"L": [
+    {"M": {
+      "language": {"L": [
+        {"S": "Python"},
+        {"S": "C++"},
+        {"S": "PHP"},
+        {"S": "JavaScript"}
+      ]}
+    }},
+    {"M": {
+      "cloud": {"L": [
+        {"S": "AWS"},
+        {"S": "GCP"}
+      ]}
+    }},
+    {"M": {
+      "database": {"L": [
+        {"S": "MySQL"},
+        {"S": "MSSQL"},
+        {"S": "Redis"}
+      ]}
+    }},
+    {"M": {
+      "tools": {"L": [
+        {"S": "GitHub"},
+        {"S": "GitLab"}
+      ]}
+    }},
+    {"M": {
+      "container": {"L": [
+        {"S": "Docker"}
+      ]}
+    }}
+  ]},
+  "languages": {"L": [
+    {"M": {
+      "language": {"S": "English"},
+      "fluency": {"S": "Intermediate"}
+    }},
+    {"M": {
+      "language": {"S": "Chinese"},
+      "fluency": {"S": "Native"}
+    }}
+  ]},
+  "interests": {"L": [
+    {"M": {
+      "name": {"S": "Marathon"}
+    }}
+  ]},
+  "volunteer": {"L": [
+    {"M": {
+      "organization": {"S": "COSCUP"},
+      "position": {"S": "Factory Team"},
+      "startDate": {"S": "2023-07"},
+      "endDate": {"S": "Present"}
+    }},
+    {"M": {
+      "organization": {"S": "AWSUG.TW"},
+      "position": {"S": "Factory Team"},
+      "startDate": {"S": "2023-07"},
+      "endDate": {"S": "Present"}
+    }}
+  ]}
+}

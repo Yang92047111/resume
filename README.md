@@ -1,6 +1,6 @@
 # Cloud Resume API with AWS
 
-[![Deploy to lambda](https://github.com/Yang92047111/resume)
+[Deploy to lambda](https://github.com/Yang92047111/resume)
 
 A Serverless Cloud Resume API with AWS.
 
